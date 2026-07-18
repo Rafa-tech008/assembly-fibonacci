@@ -1,0 +1,9 @@
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
